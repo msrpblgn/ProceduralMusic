@@ -1,0 +1,1 @@
+The ProceduralMusic program is a framework for procedural music generation in Java. It defines musical structures such as notes, chords, scales, and qualities, and uses them to algorithmically build and analyze harmonic components based on Western music theory.
